@@ -63,7 +63,7 @@ const Home = () => {
           <Box display="flex" alignItems="center" gap={1} marginTop={1}>
             <Button 
               variant="contained" 
-              onClick={() => handleCopy("https://agenciah.github.io/alojamiento_temporal_punta_azul/")} 
+              onClick={() => handleCopy("https://agenciah.github.io/alojamiento_temporal_bahia/")} 
               sx={{ backgroundColor: "#26A9E1", color: "#fff" }}
             >
               Copiar
@@ -92,7 +92,7 @@ const Home = () => {
           <Box display="flex" alignItems="center" gap={1} marginTop={1}>
             <Button 
               variant="contained" 
-              onClick={() => handleCopy("https://agenciah.github.io/entrada_mudanza_punta_azul/")} 
+              onClick={() => handleCopy("https://agenciah.github.io/entrada_mudanza_bahia/")} 
               sx={{ backgroundColor: "#26A9E1", color: "#fff" }}
             >
               Copiar
@@ -120,7 +120,7 @@ const Home = () => {
           <Box display="flex" alignItems="center" gap={1} marginTop={1}>
             <Button 
               variant="contained" 
-              onClick={() => handleCopy("https://agenciah.github.io/punta_azul_responsiva/")} 
+              onClick={() => handleCopy("https://agenciah.github.io/responsiva_bahia/")} 
               sx={{ backgroundColor: "#26A9E1", color: "#fff" }}
             >
               Copiar
